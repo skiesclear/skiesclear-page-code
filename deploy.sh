@@ -20,6 +20,4 @@ cd -
 
 git add -A
 git commit -m 'deploy-success'
-git remote add origin https://github.com/skiesclear/skiesclear-page-code.git
-git branch -M master
 git push -f git@github.com:skiesclear/skiesclear-page-code.git master
