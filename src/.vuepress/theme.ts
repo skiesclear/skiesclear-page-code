@@ -10,6 +10,7 @@ export default hopeTheme({
   // fullscreen: true,
   pure: true,
   breadcrumb: false,
+  toc: false,
   //////
   author: {
     name: "clearday",
@@ -72,6 +73,7 @@ export default hopeTheme({
       duration: 1000,
     },
     photoSwipe: false,
+    catalog: false,
 
     components: {
       components: ["Badge", "VPCard"],
