@@ -1,9 +1,8 @@
 ---
-home: true
-layout: BlogHome
+home: false
 icon: home
-title: clearday Home
-# heroImage: /bear.png
-heroText: clearday blog
-tagline: 日积跬步，以致千里
+title: clearday blog
+copyright: false
+
 ---
+## 卢卡斯的积分考虑
