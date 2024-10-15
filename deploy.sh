@@ -1,6 +1,13 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+# DL 笔记记录
+cp -r D:\\app\\obsidian\\repository\\clearsky\\研究生入门\\DL D:\\Vue\\blog\\src\\posts
+# RL 笔记记录
+cp -r D:\\app\\obsidian\\repository\\clearsky\\研究生入门\\RL D:\\Vue\\blog\\src\\posts
+# java 笔记记录
+cp -r D:\\app\\obsidian\\repository\\clearsky\\JAVA D:\\Vue\\blog\\src\\posts
+
 # 打包生成静态文件
 npm run docs:build
 
