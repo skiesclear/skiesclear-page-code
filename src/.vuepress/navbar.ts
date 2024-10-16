@@ -2,15 +2,8 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   {
-    text: "Apple",
-    icon: "pen-to-square",
-    prefix: "/posts/apple/",
-    children: [
-      { text: "Apple1", icon: "pen-to-square", link: "1" },
-      { text: "Apple2", icon: "pen-to-square", link: "2" },
-      "3",
-      "4",
-    ],
+    text: "DL",
+    link: "/post/DL/前言.md"
   },
   {
     text: "Banana",
