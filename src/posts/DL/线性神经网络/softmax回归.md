@@ -1,5 +1,5 @@
 ---
-title: softmax回归
+title: "softmax回归"
 ---
 # 1. 分类问题的表示方法
 独热编码

@@ -23,7 +23,7 @@ for file; do
         # 在临时文件开头添加 YAML 前缀  
         {  
             echo "---"  
-            echo "title: $filename_without_extension"  
+            echo "title: \"$filename_without_extension\""  
             echo "---"  
             # 追加原文件内容  
             cat "$file"  
