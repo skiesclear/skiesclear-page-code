@@ -5,4 +5,5 @@ export default sidebar({
   "/posts/apple/": "structure",
   "/posts/banana/": "structure",
   "/posts/other/": "structure",
+  "/posts/DL/": "structure",
 });

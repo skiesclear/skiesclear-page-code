@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   {
     text: "DL",
-    link: "/post/DL/前言.md"
+    link: "/posts/DL/前言.md"
   },
   {
     text: "Banana",
