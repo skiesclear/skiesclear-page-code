@@ -44,4 +44,4 @@ $$l(y,y^{\prime})=
 \lvert y-y^{\prime}\rvert - \frac{1}{2} & if\quad \lvert y-y^{\prime}\rvert >1 \\
 \frac{1}{2}(y-y^{\prime})^2 & otherwise
 \end{cases}$$
-![](assets/images/Pasted%20image%2020241016213005.png)
+![](/assets/images/Pastedimage20241016213005.png)
