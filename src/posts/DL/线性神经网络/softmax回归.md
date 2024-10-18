@@ -1,6 +1,15 @@
 ---
 title: "softmax回归"
 ---
+---
+title: "softmax回归"
+---
+---
+title: "softmax回归"
+---
+---
+title: "softmax回归"
+---
 # 1. 分类问题的表示方法
 独热编码
 $$
@@ -35,4 +44,4 @@ $$l(y,y^{\prime})=
 \lvert y-y^{\prime}\rvert - \frac{1}{2} & if\quad \lvert y-y^{\prime}\rvert >1 \\
 \frac{1}{2}(y-y^{\prime})^2 & otherwise
 \end{cases}$$
-![[Pasted image 20241014151523.png|400]]
+![](assets/images/Pasted%20image%2020241016213005.png)

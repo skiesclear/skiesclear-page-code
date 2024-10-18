@@ -2,10 +2,7 @@
 title: "java内存管理"
 ---
 ---
-title: java内存管理
----
----
-title: java内存管理
+title: "java内存管理"
 ---
 # 1. java内存管理原理
 ![[Pasted image 20240916155409.png|400]]

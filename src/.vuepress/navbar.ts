@@ -6,6 +6,10 @@ export default navbar([
     link: "/posts/DL/前言.md"
   },
   {
+    text: "python",
+    link: "/posts/python/torch.md"
+  },
+  {
     text: "Banana",
     icon: "pen-to-square",
     prefix: "/posts/banana/",

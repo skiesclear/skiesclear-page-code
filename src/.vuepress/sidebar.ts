@@ -6,4 +6,5 @@ export default sidebar({
   "/posts/banana/": "structure",
   "/posts/other/": "structure",
   "/posts/DL/": "structure",
+  "/posts/python":"structure",
 });

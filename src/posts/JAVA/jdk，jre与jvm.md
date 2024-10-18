@@ -2,10 +2,7 @@
 title: "jdk，jre与jvm"
 ---
 ---
-title: jdk，jre与jvm
----
----
-title: jdk，jre与jvm
+title: "jdk，jre与jvm"
 ---
 ## jdk和jre的关系
 - jdk：Java Development Kit *Java开发工具包

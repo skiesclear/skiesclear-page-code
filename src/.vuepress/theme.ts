@@ -84,14 +84,16 @@ export default hopeTheme({
       figure: true,
       lazyload: true,
       size: true,
+      mark: true,
     },
 
-    // markdownMath: {
-    //   // install katex before enabling it
-    //   type: "katex",
-    //   // or install mathjax-full before enabling it
-    //   type: "mathjax",
-    // },
+    markdownMath: {
+      // install katex before enabling it
+      // type: "katex",
+      // or install mathjax-full before enabling it
+      type: "mathjax",
+      output: "chtml"
+    },
 
     // These features are enabled for demo, only preserve features you need here
     mdEnhance: {
